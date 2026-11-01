@@ -13,4 +13,4 @@ Terima kasih sudah mau membantu. Yang paling dibutuhkan:
 3. Jalankan pemeriksaan sintaks yang sama dengan CI (lihat `.github/workflows/ci.yml`).
 4. Buka pull request dan jelaskan apa yang berubah.
 
-Layanan HUB AI sendiri tidak ada di repo ini, jadi laporan soal akun, saldo, atau top up sebaiknya lewat halaman kontak di website.
+Layanan HUB AI sendiri tidak ada di repo ini, jadi laporan soal akun, saldo, atau top up sebaiknya lewat halaman kontak di website atau email hub-ai@ptstore.my.id.

@@ -1,7 +1,7 @@
 # HUB AI PT STORE
 
 [![Lisensi: MIT](https://img.shields.io/badge/lisensi-MIT-3ddc97.svg)](LICENSE)
-[![CI](https://github.com/ISI_USERNAME/hub-ai-pt-store/actions/workflows/ci.yml/badge.svg)](https://github.com/ISI_USERNAME/hub-ai-pt-store/actions/workflows/ci.yml)
+[![CI](https://github.com/jzjksks793/hub-ai-pt-store/actions/workflows/ci.yml/badge.svg)](https://github.com/jzjksks793/hub-ai-pt-store/actions/workflows/ci.yml)
 [![API: OpenAI-compatible](https://img.shields.io/badge/API-OpenAI--compatible-5bc0eb.svg)](docs/api.md)
 [![Website](https://img.shields.io/badge/website-hub--ai.ptstore.my.id-3ddc97.svg)](https://hub-ai.ptstore.my.id)
 
@@ -53,6 +53,10 @@ Ada juga aplikasi terminal resmi untuk chat dan mode agent. Butuh Node.js 18 ata
 
 - Jangan menyimpan API key di repository publik atau kode front-end. Pakai variabel lingkungan (lihat [`.env.example`](.env.example)).
 - Menemukan celah keamanan? Baca [SECURITY.md](SECURITY.md).
+
+## Kontak
+
+Email: [hub-ai@ptstore.my.id](mailto:hub-ai@ptstore.my.id) · [Halaman kontak](https://hub-ai.ptstore.my.id/kontak)
 
 ## Kontribusi
 
