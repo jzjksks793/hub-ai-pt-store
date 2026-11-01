@@ -1,0 +1,7 @@
+{
+  "name": "hub-ai-node-example",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node chat-stream.mjs" },
+  "dependencies": { "openai": "^4.0.0" }
+}
