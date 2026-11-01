@@ -64,7 +64,7 @@ Perbaikan dokumentasi dan contoh kode sangat diterima. Baca [CONTRIBUTING.md](CO
 
 ## Tautan
 
-[Website](https://hub-ai.ptstore.my.id) · [Dokumentasi](https://hub-ai.ptstore.my.id/docs) · [Harga](https://hub-ai.ptstore.my.id/pricing) · [Status model](https://hub-ai.ptstore.my.id/status) · [FAQ](https://hub-ai.ptstore.my.id/faq)
+[Website](https://hub-ai.ptstore.my.id) · [Dokumentasi](https://hub-ai.ptstore.my.id/docs) · [Harga](https://hub-ai.ptstore.my.id/pricing) · [Status model](https://hub-ai.ptstore.my.id/status) · [FAQ](https://hub-ai.ptstore.my.id/faq) · [TikTok](https://www.tiktok.com/@hubai_ptstore)
 
 ## Lisensi
 
